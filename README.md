@@ -40,9 +40,9 @@ URL: [Заметки по программированию в науках о З
 
 **Неделя I Python: введение и установка (09.02.2017)**
 
-+ [N0 Intro & Help](http://nbviewer.ipython.org/github/whitehorn/Hydropythonica/blob/master/N0 Help.ipynb)
++ [N0 Intro & Help](https://github.com/whitehorn/Hydropythonica/blob/master/N0 Help.ipynb)
 
 + [N01 Code python](https://github.com/whitehorn/Hydropythonica/blob/master/N01%20Code%20python.ipynb)
 
-+ [N02 How to install python?](http://nbviewer.ipython.org/github/whitehorn/Hydropythonica/blob/master/N02 How to install python.ipynb)
++ [N02 How to install python?](https://github.com/whitehorn/Hydropythonica/blob/master/N02 How to install python.ipynb)
 
