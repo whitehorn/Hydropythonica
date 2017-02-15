@@ -1,4 +1,4 @@
-# Hydropythonica
+﻿# Hydropythonica
 
 Автор: [Шабанов Павел Александрович](https://progeoru.blogspot.ru/p/blog-page_20.html)
 
@@ -45,4 +45,15 @@ URL: [Заметки по программированию в науках о З
 + [N01 Code python](https://github.com/whitehorn/Hydropythonica/blob/master/N01%20Code%20python.ipynb)
 
 + [N02 How to install python?](https://github.com/whitehorn/Hydropythonica/blob/master/N02 How to install python.ipynb)
+
+**Неделя II Python: данные и типы данных (16.02.2017)**
+
++ [N03 Program structure](https://github.com/whitehorn/Hydropythonica/blob/master/N03 Program structure.ipynb)
+
++ [N04 Main syntax features](https://github.com/whitehorn/Hydropythonica/blob/master/N04 Python syntax features.ipynb)
+
++ [N05 Dataset & real datasets](https://github.com/whitehorn/Hydropythonica/blob/master/N05 Dataset.ipynb)
+
++ [N06 Data types](https://github.com/whitehorn/Hydropythonica/blob/master/N06 Data types.ipynb)
+
 
