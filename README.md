@@ -57,3 +57,10 @@ URL: [Заметки по программированию в науках о З
 + [N06 Data types](https://github.com/whitehorn/Hydropythonica/blob/master/N06 Data types.ipynb)
 
 
+**Неделя III Python: данные и типы данных (02.03.2017)**
+
++ [N07 Operations](https://github.com/whitehorn/Hydropythonica/blob/master/N07 Operations with base data types.ipynb)
+
++ [N08 Loops](https://github.com/whitehorn/Hydropythonica/blob/master/N08 Loops.ipynb)
+
++ [N09 Conditions](https://github.com/whitehorn/Hydropythonica/blob/master/N09 Conditions.ipynb)
