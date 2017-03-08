@@ -64,3 +64,9 @@ URL: [Заметки по программированию в науках о З
 + [N08 Loops](https://github.com/whitehorn/Hydropythonica/blob/master/N08 Loops.ipynb)
 
 + [N09 Conditions](https://github.com/whitehorn/Hydropythonica/blob/master/N09 Conditions.ipynb)
+
+**Неделя IV Python: контейнеры, последовательности и numpy-массивы (09.03.2017)**
+
++ [N10 Sequences](https://github.com/whitehorn/Hydropythonica/blob/master/N10 Sequences.ipynb)
+
++ [N11 Numpy arrays](https://github.com/whitehorn/Hydropythonica/blob/master/N11 Numpy arrays.ipynb)
