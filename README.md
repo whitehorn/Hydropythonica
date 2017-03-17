@@ -70,3 +70,6 @@ URL: [Заметки по программированию в науках о З
 + [N10 Sequences](https://github.com/whitehorn/Hydropythonica/blob/master/N10 Sequences.ipynb)
 
 + [N11 Numpy arrays](https://github.com/whitehorn/Hydropythonica/blob/master/N11 Numpy arrays.ipynb)
+
++ [N12 Table data](https://github.com/whitehorn/Hydropythonica/blob/master/N12 Table data.ipynb)
+
