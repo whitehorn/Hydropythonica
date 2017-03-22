@@ -73,3 +73,5 @@ URL: [Заметки по программированию в науках о З
 
 + [N12 Table data](https://github.com/whitehorn/Hydropythonica/blob/master/N12 Table data.ipynb)
 
++ [N13 Table data](https://github.com/whitehorn/Hydropythonica/blob/master/N13 Pandas.ipynb)
+
