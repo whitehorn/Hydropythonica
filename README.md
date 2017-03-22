@@ -40,39 +40,39 @@ URL: [Заметки по программированию в науках о З
 
 **Неделя I Python: введение и установка (09.02.2017)**
 
-+ [N0 Intro & Help](https://github.com/whitehorn/Hydropythonica/blob/master/N0%Help.ipynb)
++ [N0 Intro & Help](https://github.com/whitehorn/Hydropythonica/blob/master/N0%20Help.ipynb)
 
 + [N01 Code python](https://github.com/whitehorn/Hydropythonica/blob/master/N01%20Code%20python.ipynb)
 
-+ [N02 How to install python?](https://github.com/whitehorn/Hydropythonica/blob/master/N02%How%to%install%python.ipynb)
++ [N02 How to install python?](https://github.com/whitehorn/Hydropythonica/blob/master/N02%20How%20to%20install%20python.ipynb)
 
 **Неделя II Python: данные и типы данных (16.02.2017)**
 
-+ [N03 Program structure](https://github.com/whitehorn/Hydropythonica/blob/master/N03%Program%structure.ipynb)
++ [N03 Program structure](https://github.com/whitehorn/Hydropythonica/blob/master/N03%20Program%20structure.ipynb)
 
-+ [N04 Main syntax features](https://github.com/whitehorn/Hydropythonica/blob/master/N04%Python%syntax%features.ipynb)
++ [N04 Main syntax features](https://github.com/whitehorn/Hydropythonica/blob/master/N04%20Python%20syntax%20features.ipynb)
 
-+ [N05 Dataset & real datasets](https://github.com/whitehorn/Hydropythonica/blob/master/N05%Dataset.ipynb)
++ [N05 Dataset & real datasets](https://github.com/whitehorn/Hydropythonica/blob/master/N05%20Dataset.ipynb)
 
-+ [N06 Data types](https://github.com/whitehorn/Hydropythonica/blob/master/N06%Data%types.ipynb)
++ [N06 Data types](https://github.com/whitehorn/Hydropythonica/blob/master/N06%20Data%20types.ipynb)
 
 **Неделя III Python: данные и типы данных (02.03.2017)**
 
-+ [N07 Operations](https://github.com/whitehorn/Hydropythonica/blob/master/N07%Operations%with%base%data%types.ipynb)
++ [N07 Operations](https://github.com/whitehorn/Hydropythonica/blob/master/N07%20Operations%20with%20base%20data%20types.ipynb)
 
-+ [N08 Loops](https://github.com/whitehorn/Hydropythonica/blob/master/N08%Loops.ipynb)
++ [N08 Loops](https://github.com/whitehorn/Hydropythonica/blob/master/N08%20Loops.ipynb)
 
-+ [N09 Conditions](https://github.com/whitehorn/Hydropythonica/blob/master/N09%Conditions.ipynb)
++ [N09 Conditions](https://github.com/whitehorn/Hydropythonica/blob/master/N09%20Conditions.ipynb)
 
 **Неделя IV Python: контейнеры, последовательности и numpy-массивы (09.03.2017)**
 
-+ [N10 Sequences](https://github.com/whitehorn/Hydropythonica/blob/master/N10%Sequences.ipynb)
++ [N10 Sequences](https://github.com/whitehorn/Hydropythonica/blob/master/N10%20Sequences.ipynb)
 
-+ [N11 Numpy arrays](https://github.com/whitehorn/Hydropythonica/blob/master/N11%Numpy%arrays.ipynb)
++ [N11 Numpy arrays](https://github.com/whitehorn/Hydropythonica/blob/master/N11%20Numpy%20arrays.ipynb)
 
 **Неделя V Python: табличные данные и pandas (16.03.2017)**
 
-+ [N12 Table data](https://github.com/whitehorn/Hydropythonica/blob/master/N12%Table%data.ipynb)
++ [N12 Table data](https://github.com/whitehorn/Hydropythonica/blob/master/N12%20Table%20data.ipynb)
 
-+ [N13 Pandas](https://github.com/whitehorn/Hydropythonica/blob/master/N13%Pandas.ipynb)
++ [N13 Pandas](https://github.com/whitehorn/Hydropythonica/blob/master/N13%20Pandas.ipynb)
 
